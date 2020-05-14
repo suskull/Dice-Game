@@ -1,0 +1,28 @@
+body{
+  background-color: #58b4ae;
+}
+.container {
+  text-align: center;
+}
+.dice{
+  display : inline-block;
+}
+img{
+  width: 80%;
+}
+h1{
+  font-family: cursive;
+  font-size: 8rem;
+  color: #ffe277;
+  margin-bottom: 0;
+}
+p{
+  font-family: cursive;
+  font-size: 3rem;
+  color: #ffe277;
+}
+footer{
+  padding-top:5%;
+  font-family: cursive;
+  color: #ffe277;
+}
